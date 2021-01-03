@@ -1,0 +1,186 @@
+    <section class="section">
+        <div class="container">
+            <div class="section-header d-flex">
+                <h2 class="section--title">
+                    <span>يوم المعلم 2020</span>
+                </h2>
+                <a class="btn btn-rounded" href="https://fast3005.com/category/DZoPd">عرض الكل</a>
+            </div>
+            <div class="row products-grid">
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <div class="product">
+                        <a href="https://fast3005.com/ZPQovm" rel="canonical">
+                            <span class="img-cont">
+                                <img data-src="https://cdn.salla.sa/KjVrnGyNVleHYVxqjChNgd8D3Fzs1BnjK9pkuK7A.jpeg"
+                                    alt="درع شكرا"
+                                    src="https://assets.salla.cloud/themes/default/assets/images/product-loading.png?v=v1.3.754"
+                                    class="lazyload">
+                            </span>
+                            <h3 class="product-title">
+                                درع شكرا
+                            </h3>
+                            <h4 class="product-subtitle">مقاس 28cmx29cm</h4>
+                            <p class="product-price hidden-md hidden-lg hidden-sm">
+                                <span class="product-price"> 90 ر.س</span>
+                            </p>
+                        </a>
+                        <div class="product-footer">
+                            <p class="product-price hidden-xs">
+                                <span class="product-price"> 90 ر.س</span>
+                            </p>
+                            <a href="#add_to_cart" class="product-add add_to_cart_btn" data-product-id="1705728668"
+                                data-price="90" data-currency="SAR">
+                                <span class="sicon-cart"></span>
+                                <span>أضف للسلة</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <div class="product">
+                        <a href="https://fast3005.com/ZPQGPm" rel="canonical">
+                            <span class="img-cont">
+                                <img data-src="https://cdn.salla.sa/NmLwmFiFZGeB11bWzHvwmIWLqq581Afv9hQGgYu7.jpeg"
+                                    alt="توزيعات شوكلت وورد"
+                                    src="https://assets.salla.cloud/themes/default/assets/images/product-loading.png?v=v1.3.754"
+                                    class="lazyload">
+                            </span>
+                            <h3 class="product-title">
+                                توزيعات شوكلت وورد
+                            </h3>
+                            <h4 class="product-subtitle">عدد 4 كروت</h4>
+                            <p class="product-price hidden-md hidden-lg hidden-sm">
+                                <span class="product-price"> 15 ر.س</span>
+                            </p>
+                        </a>
+                        <div class="product-footer">
+                            <p class="product-price hidden-xs">
+                                <span class="product-price"> 15 ر.س</span>
+                            </p>
+                            <a href="#add_to_cart" class="product-add add_to_cart_btn" data-product-id="1355533726"
+                                data-price="15" data-currency="SAR">
+                                <span class="sicon-cart"></span>
+                                <span>أضف للسلة</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <div class="product">
+                        <a href="https://fast3005.com/arNgrg" rel="canonical">
+                            <span class="img-cont">
+                                <img data-src="https://cdn.salla.sa/ZcgpMq4xRuQD35f5gUvcWnOqgXy886ygjzrtKo9x.jpeg"
+                                    alt="توزيعات شوكلت وورد"
+                                    src="https://assets.salla.cloud/themes/default/assets/images/product-loading.png?v=v1.3.754"
+                                    class="lazyload">
+                            </span>
+                            <h3 class="product-title">
+                                توزيعات شوكلت وورد
+                            </h3>
+                            <h4 class="product-subtitle">عدد 4 كروت</h4>
+                            <p class="product-price hidden-md hidden-lg hidden-sm">
+                                <span class="product-price"> 15 ر.س</span>
+                            </p>
+                        </a>
+                        <div class="product-footer">
+                            <p class="product-price hidden-xs">
+                                <span class="product-price"> 15 ر.س</span>
+                            </p>
+                            <a href="#add_to_cart" class="product-add add_to_cart_btn" data-product-id="15137935"
+                                data-price="15" data-currency="SAR">
+                                <span class="sicon-cart"></span>
+                                <span>أضف للسلة</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <div class="product">
+                        <a href="https://fast3005.com/KbZqEE" rel="canonical">
+                            <span class="img-cont">
+                                <img data-src="https://cdn.salla.sa/os1Bb8Z7vgO9MlIpcOn4YPdxvRovsVqRRPq9vxBq.jpeg"
+                                    alt="تقويم هجري 1442هـ"
+                                    src="https://assets.salla.cloud/themes/default/assets/images/product-loading.png?v=v1.3.754"
+                                    class="lazyload">
+                            </span>
+                            <h3 class="product-title">
+                                تقويم هجري 1442هـ
+                            </h3>
+                            <h4 class="product-subtitle">شامل حفر الاسم والشعار</h4>
+                            <p class="product-price hidden-md hidden-lg hidden-sm">
+                                <span class="product-price"> 35 ر.س</span>
+                            </p>
+                        </a>
+                        <div class="product-footer">
+                            <p class="product-price hidden-xs">
+                                <span class="product-price"> 35 ر.س</span>
+                            </p>
+                            <a href="#add_to_cart" class="product-add add_to_cart_btn" data-product-id="254363214"
+                                data-price="35" data-currency="SAR">
+                                <span class="sicon-cart"></span>
+                                <span>أضف للسلة</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <div class="product">
+                        <a href="https://fast3005.com/AxngRd" rel="canonical">
+                            <span class="img-cont">
+                                <img data-src="https://cdn.salla.sa/Mbae48U3Wg7TqfK81GBY0pwUj2MuD9iw9xAMb0mf.jpeg"
+                                    alt="استاند اكس بنر"
+                                    src="https://assets.salla.cloud/themes/default/assets/images/product-loading.png?v=v1.3.754"
+                                    class="lazyload">
+                            </span>
+                            <h3 class="product-title">
+                                استاند اكس بنر
+                            </h3>
+                            <h4 class="product-subtitle">مقاس 180cmx80cm</h4>
+                            <p class="product-price hidden-md hidden-lg hidden-sm">
+                                <span class="product-price"> 65 ر.س</span>
+                            </p>
+                        </a>
+                        <div class="product-footer">
+                            <p class="product-price hidden-xs">
+                                <span class="product-price"> 65 ر.س</span>
+                            </p>
+                            <a href="#add_to_cart" class="product-add add_to_cart_btn" data-product-id="1517914611"
+                                data-price="65" data-currency="SAR">
+                                <span class="sicon-cart"></span>
+                                <span>أضف للسلة</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <div class="product">
+                        <a href="https://fast3005.com/xWaRwG" rel="canonical">
+                            <span class="img-cont">
+                                <img data-src="https://cdn.salla.sa/YdX2oMnSNYStOaGJrj7ClX1Xvup83p4HDxT9UwDK.jpeg"
+                                    alt="استاند اكس بنر"
+                                    src="https://assets.salla.cloud/themes/default/assets/images/product-loading.png?v=v1.3.754"
+                                    class="lazyload">
+                            </span>
+                            <h3 class="product-title">
+                                استاند اكس بنر
+                            </h3>
+                            <h4 class="product-subtitle">مقاس 180cmx80cm</h4>
+                            <p class="product-price hidden-md hidden-lg hidden-sm">
+                                <span class="product-price"> 65 ر.س</span>
+                            </p>
+                        </a>
+                        <div class="product-footer">
+                            <p class="product-price hidden-xs">
+                                <span class="product-price"> 65 ر.س</span>
+                            </p>
+                            <a href="#add_to_cart" class="product-add add_to_cart_btn" data-product-id="3868143"
+                                data-price="65" data-currency="SAR">
+                                <span class="sicon-cart"></span>
+                                <span>أضف للسلة</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

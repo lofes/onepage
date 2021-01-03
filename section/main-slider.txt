@@ -1,0 +1,15 @@
+    <section>
+        <div>
+            <div class="main-slider ">
+                <a href="#">
+                    <img data-src="https://cdn.salla.sa/ABnrP/design/yH1x0E7xyz6yZdAXItTcodRfQGMTcfGUUCUItrMf.jpeg?rand=0.578612366715566?rand=0.9071173634360548"
+                        alt=""
+                        src="https://cdn.salla.sa/ABnrP/design/yH1x0E7xyz6yZdAXItTcodRfQGMTcfGUUCUItrMf.jpeg?rand=0.578612366715566?rand=0.9071173634360548">
+                </a>
+                <a href="#">
+                    <img data-src="https://cdn.salla.sa/ABnrP/design/CoycH9gbVwIoxY726JmAWs8Awac65kRMxAgPfOnp.jpeg"
+                        alt="" src="https://cdn.salla.sa/ABnrP/design/CoycH9gbVwIoxY726JmAWs8Awac65kRMxAgPfOnp.jpeg">
+                </a>
+            </div>
+        </div>
+    </section>

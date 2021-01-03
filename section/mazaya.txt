@@ -1,0 +1,28 @@
+    <section class="u-light py-5 text-center">
+        <div class="container">
+            <h2 class="section--title mb-4">مزايا المتجر</h2>
+            <div class="row">
+                <div class="col-sm-6 col-md-4 feature-item">
+                    <div class="feature-item__icon">
+                        <i class="sicon-headset"></i>
+                    </div>
+                    <h3> الدعم الفني </h3>
+                    <p> متواجدين على مدار 24 ساعة </p>
+                </div>
+                <div class="col-sm-6 col-md-4 feature-item">
+                    <div class="feature-item__icon">
+                        <i class="sicon-shipping-fast"></i>
+                    </div>
+                    <h3> التوصيل </h3>
+                    <p> اطلب ولا تشيل هم التوصيل </p>
+                </div>
+                <div class="col-sm-6 col-md-4 feature-item">
+                    <div class="feature-item__icon">
+                        <i class="sicon-discount-coupon"></i>
+                    </div>
+                    <h3> الجودة </h3>
+                    <p> نضمن لكم جودة منتجاتنا </p>
+                </div>
+            </div>
+        </div>
+    </section>

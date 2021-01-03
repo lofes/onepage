@@ -1,0 +1,7 @@
+    <section class="section" data-type="banner">
+        <div class="container banner">
+            <a href="#">
+                <img src="https://cdn.salla.sa/ABnrP/design/v1xShtLyScgZW3U8j5DOHyUuiEckuxEn43VjhYBh.jpeg" alt="">
+            </a>
+        </div>
+    </section>
